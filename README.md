@@ -256,7 +256,9 @@ delay (2000);
 - Cuando el ultrsonico este en el rango de 200 - 299, se prendarán los 2 leds y el LCD marcará "Tanque a 1/2"
 ![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%2050%25.png?raw=true)
 
-- Cuando el ultrsonico este en el rango de 300 - 400, se prendarán 1 led y el LCD marcará "Tanque a -1/4" para indicar que el tanque puede estar a menos de 1/4 de capacidad
+- Cuando el ultrsonico este en el rango de 300 - 400, se prendarán 1 led y el LCD marcará "Tanque a -1/4" para indicar que el tanque puede estar a menos de 1/4 de capacidad.
+
+
 ![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%2025%25.png?raw=true)
 
 ## Resultados
