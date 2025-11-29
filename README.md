@@ -247,13 +247,24 @@ delay (2000);
 ## Instrucciones de operación
 1. Iniciar simulación con el botón de "PLAY"
 2. Visualizar los datos que se mostrarán en LCD
-3. Descargar valores
-![](https://github.com/EfrenQA/REPORTE-4/blob/main/SIMULACION%204.1.png?raw=true)
-![](https://github.com/EfrenQA/REPORTE-4/blob/main/SIMULACION%204.2.png?raw=true)
+- Cuando el ultrsonico este en el rango de 0 - 99, se prendarán los 4 leds y el LCD marcará "Tanque lleno"
+![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%20LLENO.png?raw=true)
+
+- Cuando el ultrsonico este en el rango de 100 - 199, se prendarán 3 leds y el LCD marcará "Tanque a 3/4"
+![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%2075%25.png?raw=true)
+
+- Cuando el ultrsonico este en el rango de 200 - 299, se prendarán los 2 leds y el LCD marcará "Tanque a 1/2"
+![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%2050%25.png?raw=true)
+
+- Cuando el ultrsonico este en el rango de 300 - 400, se prendarán 1 led y el LCD marcará "Tanque a -1/4" para indicar que el tanque puede estar a menos de 1/4 de capacidad
+![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%2025%25.png?raw=true)
 
 ## Resultados
 Al finalizar cada paso se podrá obtener datos desde la simulación del LCD
-![](https://github.com/EfrenQA/REPORTE-4/blob/main/SIMULACION%204.1.png?raw=true)
-![](https://github.com/EfrenQA/REPORTE-4/blob/main/SIMULACION%204.2.png?raw=true)
+![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%20LLENO.png?raw=true)
+![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%2075%25.png?raw=true)
+![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%2050%25.png?raw=true)
+![](https://github.com/EfrenQA/REPORTE-5-/blob/main/TANQUE%2025%25.png?raw=true)
+
 ## Créditos
 Autor Ing. Efren David Quiroz Ayala 
